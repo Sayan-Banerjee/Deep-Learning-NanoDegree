@@ -6,7 +6,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ### This repository is TensorFlow 1.X dependent. 
 
-##Certificate:
+## Certificate:
 [Udacity Deep Learning Certificate][https://confirm.udacity.com/TAQAK6EM]
 
 [https://confirm.udacity.com/TAQAK6EM]: https://confirm.udacity.com/TAQAK6EM
